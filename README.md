@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning JavaScript, Go
 - 💬 &nbsp;You can discuss topics related to JavaScript, TypeScript, Python, or Flutter/Go/SQL with me.
 - 📫 &nbsp;Read more about my projects at [X.com](https://www.X.com/Jason*)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [Aaron](https://account.xbox.com/en-us/profile?gamertag=Jason))
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [Jason](https://account.xbox.com/en-us/profile?gamertag=Jason))
 
 <details>
 <summary>🛠️<b></b>My top languages and Interest</b></summary>
