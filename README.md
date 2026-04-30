@@ -23,13 +23,13 @@ This is the place where I opensource stuff and break things :rofl:
 <div align="left">
 <table>
   <tr>
-    <td><a href="https://twitter.com/Jason" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="30"></a></td>
-    <td><a href="mail:one6ng#google.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Google" height="20" width="30"></a></td>
-    <td><a href="https://linkedin.com/in/Jnson" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30"></a></td>
-    <td><a href="https://instagram.com/Jason" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="30"></a></td>
-    <td><a href="https://spotify.com/Jason" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="20" width="30"></a></td>
-    <td><a href="https://reddit.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="20" width="30"></a></td>
-    <td><a href="https://facebook.com/Jason" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="20" width="30"></a></td>
+    <td><a href="https://twitter.com/Jason"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="30"></a></td>
+    <td><a href="mail:one6ng#google.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Google" height="20" width="30"></a></td>
+    <td><a href="https://linkedin.com/in/Jnson"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30"></a></td>
+    <td><a href="https://instagram.com/Jason"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="30"></a></td>
+    <td><a href="https://spotify.com/Jason"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="20" width="30"></a></td>
+    <td><a href="https://reddit.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="20" width="30"></a></td>
+    <td><a href="https://facebook.com/Jason"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="20" width="30"></a></td>
   </tr>
 </table></div>
 
