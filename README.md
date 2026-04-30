@@ -9,9 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://dartnode.com" target="_blank">
-  <img src="https://dartnode.com/assets/dash/images/brand/logo.png" width="200" height="50" title="Powered by DartNode - Free VPS for Open Source" alt="Powered by DartNode - Free VPS for Open Source">
-</a>
 
 <!--
 **one6ng/one6ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
